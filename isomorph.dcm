@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BQ2409X
+D 1A USB-capable 1-Cell lithium battery charger IC
+K Lithium Ion Li-Ion Polymer Li-Po LiPo LiIon Charger 18650
+F http://www.ti.com/lit/ds/symlink/bq24092.pdf
+$ENDCMP
+#
+#End Doc Library
