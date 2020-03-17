@@ -1,4 +1,4 @@
-(module GCT_USB4085-GF-A_REVA (layer F.Cu) (tedit 5E6F9EE3)
+(module GCT_USB4085-GF-A_REVA (layer F.Cu) (tedit 5E70C73D)
   (fp_text reference REF** (at -1.097425 -6.515415) (layer F.SilkS)
     (effects (font (size 1.00015 1.00015) (thickness 0.015)))
   )
@@ -41,4 +41,9 @@
   (pad A5 thru_hole circle (at -1.275 -4.025) (size 0.65 0.65) (drill 0.4) (layers *.Cu *.Mask))
   (pad A4 thru_hole circle (at -2.125 -4.025) (size 0.65 0.65) (drill 0.4) (layers *.Cu *.Mask))
   (pad A1 thru_hole circle (at -2.975 -4.025) (size 0.65 0.65) (drill 0.4) (layers *.Cu *.Mask))
+  (model ${ISOLIB}/3D/USB4085-GF-A--3DModel-STEP-56544.STEP
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
